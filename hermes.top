@@ -1,0 +1,9 @@
+base:
+    dom0:
+        - hermes-vms
+    debian-12-xfce:
+        - hermes-template
+    hermes-webui:
+        - hermes-webui
+    hermes-research-dvm:
+        - hermes-research-dvm
